@@ -16,7 +16,7 @@
 
 **Link to work:** https://github.com/JWTechdev/100-days-of-code
 
-### Day 1: January 06, 2017
+### Day 2: January 06, 2017
 
 **Today's Progress**: I spent my hour today working through the jQuery lesson.
 
