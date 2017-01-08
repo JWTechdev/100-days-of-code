@@ -23,3 +23,21 @@
 **Thoughts:** I once again had experience with jQuery but was refreshed by the clarity of the concepts. I feel like will use it to the fullest in the near future without blindly copy and pasting functions.
 
 **Link to work:** https://github.com/JWTechdev/100-days-of-code
+
+### Day 3: January 07, 2017
+
+**Today's Progress**: I finished the jQuery lesson and finished my portfolio site!
+
+**Thoughts:** Revisiting jQuery was a real eye opener. I dont think there is much I couldnt figure out with it now :)
+
+My portfolio is finally up and I am happy! Check it out BELOW
+
+**Link to work:** https://jwtechdev.com
+
+### Day 4: January 07, 2017
+
+**Today's Progress**: I finished the first front-end project for FreeCodeCamp (YAZZZ)
+
+**Thoughts:** I was suprised how fast I could stand up a basic Bootsrap page. If I can connect this to a CMS I could make a butt load of sites. Ive been a wordpress guy and realize I really hate PHP. Sorry not sorry.
+
+**Link to work:** http://codepen.io/jwtechdev/full/JEYorW/
