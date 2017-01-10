@@ -41,3 +41,19 @@ My portfolio is finally up and I am happy! Check it out BELOW
 **Thoughts:** I was suprised how fast I could stand up a basic Bootsrap page. If I can connect this to a CMS I could make a butt load of sites. Ive been a wordpress guy and realize I really hate PHP. Sorry not sorry.
 
 **Link to work:** http://codepen.io/jwtechdev/full/JEYorW/
+
+### Day 5: January 08, 2017
+
+**Today's Progress**: I finished a free site for an organization I help start called Lake Nona Tech.
+
+**Thoughts:** It was fun project and I had fun putting some of our amazing past speakers on to the site :) This is a WordPress site.
+
+**Link to work:** http://lakenonatech.org
+
+### Day 6: January 09, 2017
+
+**Today's Progress**: I am half way done with the FreeCodeCamp portfolio project. I already have one (see day 4) so I am making one for my wife Emily <3
+
+**Thoughts:** It is strange making a portfolio for someone else but its makes me think a little harder because it has to feel like her and not me. This is also a good test of my barebones Bootsrap knowledge.
+
+**Link to work:** https://github.com/JWTechdev/emily-walker-portfolio
