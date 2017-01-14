@@ -57,3 +57,11 @@ My portfolio is finally up and I am happy! Check it out BELOW
 **Thoughts:** It is strange making a portfolio for someone else but its makes me think a little harder because it has to feel like her and not me. This is also a good test of my barebones Bootsrap knowledge.
 
 **Link to work:** https://github.com/JWTechdev/emily-walker-portfolio
+
+### Day 6: January 13, 2017
+
+**Today's Progress**: The last few days have been blur so I am commiting multipl days as one day. I am still trucking through the JS portion of FreeCodeCamp and make modifications to lakenonatech.org adding a new speaker.
+
+**Thoughts:** The daily hustle keeps me motivated and consistency has really shown importance to learning new langauges.
+
+**Link to work:** http://lakenonatech.org
