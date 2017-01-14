@@ -58,10 +58,18 @@ My portfolio is finally up and I am happy! Check it out BELOW
 
 **Link to work:** https://github.com/JWTechdev/emily-walker-portfolio
 
-### Day 6: January 13, 2017
+### Day 7: January 13, 2017
 
-**Today's Progress**: The last few days have been blur so I am commiting multipl days as one day. I am still trucking through the JS portion of FreeCodeCamp and make modifications to lakenonatech.org adding a new speaker.
+**Today's Progress**: The last few days have been blur so I am committing multiple days as one day. I am still trucking through the JS portion of FreeCodeCamp and make modifications to lakenonatech.org adding a new speaker.
 
-**Thoughts:** The daily hustle keeps me motivated and consistency has really shown importance to learning new langauges.
+**Thoughts:** The daily hustle keeps me motivated and consistency has really shown importance to learning new languages.
 
 **Link to work:** http://lakenonatech.org
+
+### Day 8: January 14, 2017
+
+**Today's Progress**: I am continuing to work through the JavaScript portion of FreeCodeCamp and love it. I have also put up a coming soon page for cognificent.tech which will launch soon :)
+
+**Thoughts:** This past week has shown me how important a portfolio is :)
+
+**Link to work:** http://cognificent.tech
