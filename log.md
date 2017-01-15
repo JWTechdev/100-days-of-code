@@ -73,3 +73,11 @@ My portfolio is finally up and I am happy! Check it out BELOW
 **Thoughts:** This past week has shown me how important a portfolio is :)
 
 **Link to work:** http://cognificent.tech
+
+### Day 9: January 14, 2017
+
+**Today's Progress**: I am continuing to work through the JavaScript portion of FreeCodeCamp and really like my enhanced knowledge of arrays. Cognificent.tech is also almost done and its very exciting. 
+
+**Thoughts:** Consistency is key!
+
+**Link to work:** http://cognificent.tech
