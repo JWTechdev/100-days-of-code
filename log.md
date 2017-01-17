@@ -76,8 +76,16 @@ My portfolio is finally up and I am happy! Check it out BELOW
 
 ### Day 9: January 14, 2017
 
-**Today's Progress**: I am continuing to work through the JavaScript portion of FreeCodeCamp and really like my enhanced knowledge of arrays. Cognificent.tech is also almost done and its very exciting. 
+**Today's Progress**: I am continuing to work through the JavaScript portion of FreeCodeCamp and really like my enhanced knowledge of arrays. Cognificent.tech is also almost done and its very exciting.
 
 **Thoughts:** Consistency is key!
+
+**Link to work:** http://cognificent.tech
+
+### Day 10: January 15, 2017
+
+**Today's Progress**: I am continuing to work through the JavaScript portion of FreeCodeCamp and really like my enhanced knowledge of functions. Cognificent.tech is also almost done and its very exciting.
+
+  **Thoughts:** I went to Disney today so my feedback is minimal. My hour was filled with site work and JavaScript.
 
 **Link to work:** http://cognificent.tech
