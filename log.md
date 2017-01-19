@@ -89,3 +89,19 @@ My portfolio is finally up and I am happy! Check it out BELOW
   **Thoughts:** I have lost some intensity on FreeCodeCamp.com but I am back and swinging for the fences.
 
 **Link to work:** http://cognificent.tech
+
+### Day 11: January 18, 2017
+
+**Today's Progress**: Today I spent majority of the day working on our site which I end up trashing lol I will now be moving the site over to Bootstrap because it will be easier to maintain then wordpress in my opinion and will be more reliable
+
+  **Thoughts:** It really sucks to have to do a lot more dev work but I know this is the right decision. You live and your learn. Coming soon still up.
+
+**Link to work:** http://cognificent.tech
+
+### Day 12: January 19, 2017
+
+**Today's Progress**: I have a really good plan mocked up and will finish our company site tonight! Do or die.
+
+  **Thoughts:** Very excited about the FreeCodeCamp Boostrap knowledge that is making this a semi-piece of cake.
+
+**Link to work:** http://cognificent.tech will be on Github pages!
