@@ -82,10 +82,10 @@ My portfolio is finally up and I am happy! Check it out BELOW
 
 **Link to work:** http://cognificent.tech
 
-### Day 10: January 15, 2017
+### Day 10: January 20, 2017
 
-**Today's Progress**: I am continuing to work through the JavaScript portion of FreeCodeCamp and really like my enhanced knowledge of functions. Cognificent.tech is also almost done and its very exciting.
+**Today's Progress**: I am putting the finishing touches on cognificent.tech and I might be taking on an app project using Meteor JS.
 
-  **Thoughts:** I went to Disney today so my feedback is minimal. My hour was filled with site work and JavaScript.
+  **Thoughts:** I have lost some intensity on FreeCodeCamp.com but I am back and swinging for the fences.
 
 **Link to work:** http://cognificent.tech
