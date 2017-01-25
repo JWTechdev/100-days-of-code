@@ -105,3 +105,11 @@ My portfolio is finally up and I am happy! Check it out BELOW
   **Thoughts:** Very excited about the FreeCodeCamp Boostrap knowledge that is making this a semi-piece of cake.
 
 **Link to work:** http://cognificent.tech will be on Github pages!
+
+### Day 13: January 19, 2017
+
+**Today's Progress**: Our site is finished and I spent most of today on API's! I also did some dope JavaScript with Wes Bos as my guide.
+
+  **Thoughts:** I need to do some more practical API documentation but I think I am really understanding JSON better then I have before and structured data.
+
+**Link to work:** http://cognificent.tech
